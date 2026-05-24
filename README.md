@@ -6,15 +6,7 @@
 
 ---
 
-## 📸 Screenshots
 
-<!-- To add screenshots: put your image files in a folder called "screenshots" next to this README, then replace the lines below -->
-<!-- Example: ![Gameplay](screenshots/gameplay.png) -->
-
-![Gameplay Screenshot 1](screenshots/screenshot1.png)
-![Gameplay Screenshot 2](screenshots/screenshot2.png)
-
----
 
 ## 🌌 About the Game
 
@@ -61,31 +53,7 @@ This game was built using **vibe coding** — rapidly prototyping and iterating 
 
 ---
 
-## 🚀 Running Locally
 
-No installation needed. Just open `index.html` in any modern browser:
-
-```
-double-click index.html
-```
-
-Or serve it with a local server:
-
-```bash
-python -m http.server 8080
-# then open http://localhost:8080
-```
-
----
-
-## 📁 How to Add Screenshots
-
-1. Create a folder called `screenshots` next to this README
-2. Take screenshots of your game (press `Win + Shift + S` on Windows or use browser DevTools)
-3. Save them as `screenshot1.png`, `screenshot2.png`, etc. inside the `screenshots` folder
-4. The images will automatically show up in this README on GitHub!
-
----
 
 ## 📄 License
 
